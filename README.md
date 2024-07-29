@@ -1,5 +1,6 @@
 What is your favorite cat?
 - Sphinx　🐈‍⬛
+- Russian blue
 - Siam
 - American shorthair
 - Mike neko
@@ -11,3 +12,4 @@ What is your favorite cat?
 - munchkin
 - british shorthair
 - American Shorthair
+
